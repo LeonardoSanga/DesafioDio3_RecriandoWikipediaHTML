@@ -2,7 +2,7 @@
 Este é o terceiro (e último) desafio do curso de Formação HTML Web Developer da DIO, o qual objetiva recriar o Wikipedia com um layout moderno.
 
 ## Conteúdo
-O projeto visa recriar a Wikipedia, possibilitando a navegação entre diversas páginas de informações, cujo tema é séries de televisão. Foram criadas quatro páginas distintas, cada uma relacionada a uma contratulada série de TV:
+O projeto visa recriar a Wikipedia, possibilitando a navegação entre diversas páginas de informações, cujo tema é séries de televisão. Foram criadas quatro páginas distintas, cada uma relacionada a uma congratulada série de TV:
 - The Witcher
 - Game of Thrones
 - Breaking Bad
